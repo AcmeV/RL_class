@@ -1,0 +1,1 @@
+{"episode": 60000, "gamma": 0.9, "batch_size": 32, "epsilon_max": 0.9, "epsilon_increment": 5e-05, "epsilon": 0.9, "learn_step_counter": 6769358}

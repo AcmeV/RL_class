@@ -1,0 +1,1 @@
+python main.py --model=DQN --env=Snake --memory=2000
